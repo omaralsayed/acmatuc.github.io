@@ -7,3 +7,8 @@
 #  website: <A link to your website>
 - name: Nathan Brown
   short_bio: I'm ready to learn.
+- name: Omar Alsayed
+  short_bio: I'm a 3rd year Computer Engineering student at UC. My favorite languages are Python and C++. I love hackathons, and am proud to be part of the tech community!
+  image_url: https://avatars1.githubusercontent.com/u/42531544?s=460&v=4
+  github: omaralsayed
+  website: https://omaralsayed.com
